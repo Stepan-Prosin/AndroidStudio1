@@ -1,0 +1,3 @@
+com.netology.tabbedapplication.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

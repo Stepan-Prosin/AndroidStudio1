@@ -1,0 +1,7 @@
+com/netology/tabbedapplication/test/BuildConfig.java
+ com.netology.tabbedapplication.test.BuildConfig
+com/netology/tabbedapplication/MainActivityTest.java
+ com.netology.tabbedapplication.MainActivityTest
+ com.netology.tabbedapplication.MainActivityTest$1
+com/netology/tabbedapplication/ExampleInstrumentedTest.java
+ com.netology.tabbedapplication.ExampleInstrumentedTest

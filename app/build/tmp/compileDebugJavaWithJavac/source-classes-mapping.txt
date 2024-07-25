@@ -1,0 +1,16 @@
+com/netology/tabbedapplication/databinding/ActivityMainBinding.java
+ com.netology.tabbedapplication.databinding.ActivityMainBinding
+com/netology/tabbedapplication/ui/main/SectionsPagerAdapter.java
+ com.netology.tabbedapplication.ui.main.SectionsPagerAdapter
+com/netology/tabbedapplication/MainActivity.java
+ com.netology.tabbedapplication.MainActivity
+com/netology/tabbedapplication/BuildConfig.java
+ com.netology.tabbedapplication.BuildConfig
+com/netology/tabbedapplication/ui/main/PageViewModel.java
+ com.netology.tabbedapplication.ui.main.PageViewModel
+ com.netology.tabbedapplication.ui.main.PageViewModel$1
+com/netology/tabbedapplication/ui/main/PlaceholderFragment.java
+ com.netology.tabbedapplication.ui.main.PlaceholderFragment
+ com.netology.tabbedapplication.ui.main.PlaceholderFragment$1
+com/netology/tabbedapplication/databinding/FragmentMainBinding.java
+ com.netology.tabbedapplication.databinding.FragmentMainBinding
